@@ -1,0 +1,9 @@
+.hero_details{
+    /* width: 100%; */
+   order: 3;
+ }
+ .hero_image{
+    width: 100%;
+    margin-bottom: 40px;
+    order: 2;
+ }
